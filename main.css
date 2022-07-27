@@ -1,0 +1,88 @@
+html {
+    text-align: center;
+}
+
+
+label {
+
+    display: block;
+    text-align: center;
+    margin-top: 30px;
+}
+
+input  {
+    width: 500px;
+    
+}
+.bottons {
+    margin-top: 10px;
+}
+.btn {
+    margin-top: 15px;
+}
+.type2 {
+    margin: 0 auto;
+    padding: 0 auto;
+    display: inline-block ;
+    margin-top: 5px;
+    list-style-position: inside;
+
+}
+
+  
+ 
+.box {
+    
+    
+    height: 100px;
+    margin-right: 5px;
+    float: left;
+
+    
+    
+
+}
+.bg-green {
+
+    background-color: rgb(85, 239, 239);
+    
+
+}
+.bg-green2 {
+    background-color: rgb(103, 213, 213);
+}
+.bg-green3 {
+    background-color: rgb(73, 176, 176);
+    margin-right: 20px;
+
+}
+.bg {
+    background: rgb(235, 229, 229);
+}
+
+.width {
+    width: 230px;
+}
+.width2 {
+    width: 60px;
+
+}
+.display {
+    display: block;
+}
+.type {
+    margin: auto;
+}
+.
+.bt {
+    margin-top: 15px;
+}
+.wt{
+    width: 340px;
+}
+.wt2 {
+    width: 500px;
+}
+
+
+
